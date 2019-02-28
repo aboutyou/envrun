@@ -1,8 +1,3 @@
-[![Go Report Card](https://goreportcard.com/badge/github.com/Luzifer/envrun)](https://goreportcard.com/report/github.com/Luzifer/envrun)
-![](https://badges.fyi/github/license/Luzifer/envrun)
-![](https://badges.fyi/github/downloads/Luzifer/envrun)
-![](https://badges.fyi/github/latest-release/Luzifer/envrun)
-
 # Luzifer / envrun
 
 `envrun` is a small helper utility to inject environment variables stored in a file into processes.
